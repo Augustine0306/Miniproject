@@ -1,0 +1,10 @@
+argon2-cffi
+zbar-py
+streamlit
+opencv-python-headless
+numpy
+Pillow
+pyzbar
+qrcode
+python-barcode
+streamlit-webrtc
